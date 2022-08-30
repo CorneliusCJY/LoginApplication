@@ -19,4 +19,4 @@ Create Login/Registration user interfaces (GUI) using Java, MySQL and IntelliJ I
 
 - Cornelius Chao
 
-![image]( )
+
